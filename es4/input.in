@@ -1,0 +1,4 @@
+2
+
+  ChooseInput >> input;
+  0 = solid, 1 = liquid, 2 = gas
