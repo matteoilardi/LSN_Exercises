@@ -1,1 +1,1 @@
-# LSN_Exercises
+# LSN_Projects
